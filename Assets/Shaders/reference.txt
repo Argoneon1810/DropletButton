@@ -1,0 +1,2 @@
+Shaders created by rakkarage (3 Feb, 2014), https://forum.unity.com/threads/using-mask-to-cut-a-hole-in-an-image.286489/#post-1893494
+Minor fix applied to remove "material ... doesn't have _Stencil properties" warning
